@@ -1,0 +1,143 @@
+q1
+func converterMaiusculas(s string) string {
+	return strings.ToUpper(s)
+}
+
+func main() {
+	var entrada string
+	fmt.Print(
+	fmt
+"Digite uma string: ")
+	fmt.Scanln(&entrada)
+	resultado := converterMaiusculas(entrada)
+	fmt.Println(
+	fmt.Scanln(&entrada)
+	resultado := converterMaiusculas(entrada)
+	fmt
+
+	fmt.Scanln(&entrada)
+	resultado := converterMaiusculas(entrada)
+
+	fmt.Scanln(&entrada)
+	resultado :=
+
+	fmt.Scanln(&entrada)
+	result
+
+	fmt.Scanln(&entrada)
+
+	fmt
+"Resultado:", resultado)
+}
+
+q2 
+func removerEspacos(s string) string {
+	return strings.ReplaceAll(s, " ", "")
+}
+
+func main() {
+	var entrada string
+	fmt.Print(
+	fmt
+"Digite uma string: ")
+	fmt.Scanln(&entrada)
+	resultado := removerEspacos(entrada)
+	fmt.Println(
+	fmt.Scanln(&entrada)
+	resultado := removerEspacos(entrada)
+	fmt
+
+	fmt.Scanln(&entrada)
+	resultado := removerEspacos(entrada)
+
+	fmt.Scanln(&entrada)
+	result
+
+	fmt.Scanln(&entrada)
+
+	fmt
+"Resultado:", resultado)
+}
+
+q3
+
+func substituirCaractere(s string, antigoCaractere string, novoCaractere string) string {
+	return strings.ReplaceAll(s, antigoCaractere, novoCaractere)
+}
+
+func main() {
+	var entrada, antigoCaractere, novoCaractere string
+
+	fmt.Print(
+
+"Digite uma string: ")
+	fmt.Scanln(&entrada)
+
+	fmt.Print(
+	fmt.Scanln(&entrada)
+
+	fmt
+
+	fmt.Scan
+"Digite o caractere a ser substituído: ")
+	fmt.Scanln(&antigoCaractere)
+
+	fmt.Print(
+	fmt.Scanln(&antigoCaractere)
+
+q4
+ 
+var string1 string
+var string2 string
+
+	fmt.print("Me informe 2 strings")
+	fmt.Scan(&string1)
+	fmt.Scan(&string2)
+	if string1 == string2 {
+	fmt.print("As duas strings são iguais")
+	} else { fmt.print("As duas string são diferentes")
+
+q6
+
+var frase string
+func contarPalavras (string)
+	ler frase
+return quantidadePalavras
+
+
+q7
+
+var frase string
+	fmt.print("me informe uma string")
+	fmt.Scan(&frase)
+	if encontrarINT {
+	return true	
+	} else{ false
+
+q8
+
+var palavra string
+	func inverterCaracteres
+	ler palavra 
+	.ç~l
+
+q10 
+
+var string1, string2 string
+
+	fmt.print("Me informe duas strings")
+	fmt.Scan(&string1,string2)
+
+func lerStrings
+	
+
+q11
+
+var string string
+	
+func lerString
+	if string[a,e,i,o,u] {
+	func removeVogais
+	 return
+
+q13
